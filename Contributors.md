@@ -8,6 +8,7 @@
 - [Mindaugas Januška](https://github.com/mindaugas-pro)
 - [chengchenrui](https://github.com/chengchenrui)
 - [Andy](https://github.com/andy814/)
+- [Pasupula Akshay Vasista](https://github.com/Star0960A)
 - [Syed Asad Imtiaz](https://github.com/Syed-Asad-Imtiaz)
 - [Michael] (https://github.com/Michael-Ivanov1)
 - [AtanuGhosh] (https://github.com/zabuja)
